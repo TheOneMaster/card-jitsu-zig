@@ -1,3 +1,6 @@
 # Output and build files
 game
 game.o
+
+main
+main.o
